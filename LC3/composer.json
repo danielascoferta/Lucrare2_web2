@@ -1,0 +1,14 @@
+{
+    "name": "user/lc3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniela",
+            "email": "daniela.scoferta7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
